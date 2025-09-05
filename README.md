@@ -11,5 +11,12 @@
   Diagrama DER finalizado
   Avance en documento de dependencias
   Avance en documento de Seguridad
+
+05/09/2025
   Diseño de la interfaz del index Finalizado
   Se plantearon nuevas tareas a hacer.
+  Se avanza en la descripcion de roles y seguridad del sistema.
+  Creacion de la plantilla del proyecto Back-End con dependencias de seguridad y web.
+  Creacion de la plantilla y estructura web del proyecto Front-End
+
+  
